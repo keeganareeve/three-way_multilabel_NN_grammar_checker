@@ -1,0 +1,9 @@
+feb26-6:45-EST.pth model:
+
+F1 Score: 0.9253731369972229
+Accuracy: 0.9254
+
+500 epochs
+
+5 fully connected linear layers
+relu transformations (except for output layer)
