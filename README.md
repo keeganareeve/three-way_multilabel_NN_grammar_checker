@@ -1,4 +1,4 @@
-# grammar_project
+# grammar_checker
 Task: Using PyTorch to predict correct starting word between 'they're', 'their', and 'there'.
 
 Content: I have a linear model (with ReLU transformations and 5 layers) as well as a bidirectional RNN model.
